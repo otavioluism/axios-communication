@@ -24,6 +24,9 @@ Este projeto foi desenvolvido com as seguintes tecnologias.
 * [Axios](https://github.com/axios/axios)
 * [Cors](https://github.com/expressjs/cors)
 
+## :paperclip: Funcionamento
+![Running](https://github.com/otavioluism/axios-communication/blob/master/Untitled.gif)
+
 ## :gear: Como utilizar
 Para rodar o código, primeiro fazer um git clone do repositório e depois na pasta abrir o terminal e seguir os seguintes comando abaixo.
 
